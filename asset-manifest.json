@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "https://ayush1852017.github.io/csb-ky65oh/static/js/main.0803db08.chunk.js",
-    "main.js.map": "https://ayush1852017.github.io/csb-ky65oh/static/js/main.0803db08.chunk.js.map",
+    "main.js": "https://ayush1852017.github.io/csb-ky65oh/static/js/main.982dafdd.chunk.js",
+    "main.js.map": "https://ayush1852017.github.io/csb-ky65oh/static/js/main.982dafdd.chunk.js.map",
     "runtime-main.js": "https://ayush1852017.github.io/csb-ky65oh/static/js/runtime-main.8c066d1a.js",
     "runtime-main.js.map": "https://ayush1852017.github.io/csb-ky65oh/static/js/runtime-main.8c066d1a.js.map",
     "static/js/2.79eaad6f.chunk.js": "https://ayush1852017.github.io/csb-ky65oh/static/js/2.79eaad6f.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.8c066d1a.js",
     "static/js/2.79eaad6f.chunk.js",
-    "static/js/main.0803db08.chunk.js"
+    "static/js/main.982dafdd.chunk.js"
   ]
 }
